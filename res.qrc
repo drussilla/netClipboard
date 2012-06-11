@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="help">img/about.png</file>
+        <file alias="cancel">img/dialog-cancel.png</file>
+        <file alias="close">img/dialog-close.png</file>
+        <file alias="ok">img/dialog-ok.png</file>
+        <file alias="net">img/Network.png</file>
+        <file alias="ava">img/isus.png</file>
+    </qresource>
+</RCC>
